@@ -21,6 +21,10 @@ const HomeNavbar = () => {
                             <Link to='/auth/register' className="nav-link">
                                 <i className="uil uil-user-circle me-2"></i>Register</Link>
                         </li>
+                        <li className="nav-item">
+                            <Link to='/auth/reset-password' className="nav-link">
+                                <i className="uil uil-key-lock me-1"></i>Login</Link>
+                        </li>
                     </ul>
                 </div>
             </div>
