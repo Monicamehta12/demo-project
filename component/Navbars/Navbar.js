@@ -18,6 +18,8 @@ const HomeNavbar = () => {
                         <li className="nav-item">
                             <Link to='/auth/register' className="nav-link">
                                 <i className="uil uil-user-circle me-2"></i>Register</Link>
+                                <Link to='/auth/register' className="nav-link">
+                                <i className="uil uil-user-circle me-2"></i>Register</Link>
                             <Link to='/auth/register' className="nav-link">
                                 <i className="uil uil-user-circle me-2"></i>Register</Link>
                         </li>
