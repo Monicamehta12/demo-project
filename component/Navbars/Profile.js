@@ -6,6 +6,7 @@ const Profile = () => {
     <div>Profile</div>
     <div>networking</div>
     <div>abcdd</div>
+    <div>abcdd</div>
     </>
   )
 }
