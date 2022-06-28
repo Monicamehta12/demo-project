@@ -12,7 +12,9 @@ const HomeNavbar = () => {
                         require("../../assets/images/logoicon.png")
                             .default
                     } />Ipangram</Link>
-                
+                <div>Project</div>
+                <div>Project</div>
+                <div>Project</div>
                 <div className="collapse navbar-collapse pt-2 pb-0" id="navbarSupportedContent">
                     <ul className="navbar-nav ms-auto mb-lg-0">
                         <li className="nav-item">

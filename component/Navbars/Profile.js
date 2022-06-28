@@ -7,6 +7,9 @@ const Profile = () => {
     <div>networking</div>
     <div>abcdd</div>
     <div>abcdd</div>
+    <div>Project</div>
+    <div>Project</div>
+    <div>Project</div>
     </>
   )
 }

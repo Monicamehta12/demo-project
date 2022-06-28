@@ -26,6 +26,9 @@ const UserNavbar = () => {
                             } />
                     </div>
                     <div>Project</div>
+                    <div>Project</div>
+                    <div>Project</div>
+                    <div>Project</div>
                     <ul className="dropdown-menu dropdown-menu-end p-3" aria-labelledby="dropdownMenuButton1">
                         <h6>Welcome!</h6>
                         <Link to='/' className='dropdown-item'><i className="uil uil-user me-2"></i>My Profile</Link>
